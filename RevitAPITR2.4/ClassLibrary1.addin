@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\ClassLibrary1.dll"</Assembly>
+		<AddInId>F2ECC839-2B61-4997-A0BD-3ADE95E4B25C</AddInId>
+		<FullClassName>ClassLibrary1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор колонн по этажам</Text>
+	</AddIn>
+</RevitAddIns>
